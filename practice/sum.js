@@ -10,7 +10,3 @@ function sum(param) {
 }
 sum(5);
 sum(10);
-
-console.log(sum(2));
-console.log(sum(6));
-console.log(sum(10));
